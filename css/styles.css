@@ -184,20 +184,22 @@ body {
 /* hero */
 
 .portfolio-hero-button {
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.17;
+  line-height: 1.5;
   align-items: center;
   text-align: center;
   letter-spacing: 0.04em;
   color: var(--brand-color);
+  cursor: pointer;
 }
 
 /* conteiner */
 .portfolio-conteiner-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.17;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--link-text-color);
 }

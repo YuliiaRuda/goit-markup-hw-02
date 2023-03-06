@@ -46,15 +46,11 @@ body {
 }
 
 .header-item-link:focus {
-  color: #2e2f42;
-}
-
-.header-item-link:visited {
-  color: #2e2f42;
+  color: #404bbf;
 }
 
 .header-item-link:hover {
-  color: #e97629;
+  color: #404bbf;
 }
 
 .header-address {

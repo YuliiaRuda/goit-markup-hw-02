@@ -125,7 +125,7 @@ body {
   font-weight: 700;
   font-size: 36px;
   text-align: center;
-  line-height: 1.11
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
@@ -173,7 +173,6 @@ body {
   text-transform: uppercase;
   color: var(--brand-color);
 }
-
 
 .footer-logo-text {
   color: #f4f4fd;
